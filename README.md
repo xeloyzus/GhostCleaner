@@ -1,7 +1,7 @@
 # GhostCleaner 👻
 
 <p align="center">
-  <img src="./img/ghost.jpeg" alt="GhostCleaner App Icon" width="160">
+  <img src="./img/ghost.jpg" alt="GhostCleaner App Icon" width="160">
 </p>
 
 A powerful, privacy-focused macOS disk cleanup utility with advanced scanning,
