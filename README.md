@@ -12,7 +12,6 @@ A powerful macOS disk cleanup utility with advanced scanning capabilities and sa
 - **Quarantine System**: Safe deletion with restore capability for 30 days
 
 ### Safety Features
-- **Sandboxed**: Full App Sandbox enabled for maximum security
 - **User-Selected Access**: Only accesses folders explicitly granted by user
 - **Security-Scoped Bookmarks**: Persistent access across app launches
 - **Protected Paths**: Built-in protection for critical system directories
