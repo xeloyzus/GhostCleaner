@@ -1,7 +1,7 @@
 # GhostCleaner 👻
 
 <p align="center">
-  <img src="./img/ghost.jpg" alt="GhostCleaner App Icon" width="160">
+  <img src="./img/ghost.jpg" alt="GhostCleaner App Icon" heigh="180" width="180">
 </p>
 
 A powerful, privacy-focused macOS disk cleanup utility with advanced scanning,
@@ -12,10 +12,10 @@ smart risk assessment, and safe file recovery.
 ## 🖼️ Screenshots
 
 ! [Main Scan View](./img/shot_1.PNG)
-! [Scan Results & Risk Levels](./img/shot_2.png)
-! [Large Files Scanner](./img/shot_3.png)
-! [Deep Scan Mode](./img/shot_4.png)
-! [Quarantine & Restore](./img/shot_5.png)
+! [Scan Results & Risk Levels](./img/shot_2.PNG)
+! [Large Files Scanner](./img/shot_3.PNG)
+! [Deep Scan Mode](./img/shot_4.PNG)
+! [Quarantine & Restore](./img/shot_5.PNG)
 
 ---
 
