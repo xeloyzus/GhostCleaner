@@ -16,7 +16,7 @@ smart risk assessment, and safe file recovery.
 <img src="./img/shot_2.PNG" width="250" alt="Scan Results & Risk Levels">
 <img src="./img/shot_3.PNG" width="250" alt="Large Files Scanner">
 <img src="./img/shot_4.PNG" width="250" alt="Deep Scan Mode">
-<img src="./img/shot_5.PNG" width="250" alt="Quarantine & Restore">
+
 
 </div>
 ---
