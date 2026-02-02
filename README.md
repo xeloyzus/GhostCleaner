@@ -8,33 +8,17 @@ A powerful, privacy-focused macOS disk cleanup utility with advanced scanning,
 smart risk assessment, and safe file recovery.
 
 ---
+<div align="center">
 
 ## 🖼️ Screenshots
-<table>
-  <tr>
-    <td align="center">
-      <img src="./img/shot_1.PNG" width="250" alt="Main Scan View">
-    </td>
-    <td align="center">
-      <img src="./img/shot_2.PNG" width="250" alt="Scan Results & Risk Levels">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="./img/shot_3.PNG" width="250" alt="Large Files Scanner">
-    </td>
-    <td align="center">
-      <img src="./img/shot_4.PNG" width="250" alt="Deep Scan Mode">
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="./img/shot_5.PNG" width="250" alt="Quarantine & Restore">
-    </td>
-  </tr>
-</table>
 
+<img src="./img/shot_1.PNG" width="250" alt="Main Scan View">
+<img src="./img/shot_2.PNG" width="250" alt="Scan Results & Risk Levels">
+<img src="./img/shot_3.PNG" width="250" alt="Large Files Scanner">
+<img src="./img/shot_4.PNG" width="250" alt="Deep Scan Mode">
+<img src="./img/shot_5.PNG" width="250" alt="Quarantine & Restore">
 
+</div>
 ---
 
 ## 🚀 Features
