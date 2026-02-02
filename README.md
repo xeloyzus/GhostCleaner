@@ -10,12 +10,30 @@ smart risk assessment, and safe file recovery.
 ---
 
 ## 🖼️ Screenshots
+<table>
+  <tr>
+    <td align="center">
+      <img src="./img/shot_1.PNG" width="250" alt="Main Scan View">
+    </td>
+    <td align="center">
+      <img src="./img/shot_2.PNG" width="250" alt="Scan Results & Risk Levels">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./img/shot_3.PNG" width="250" alt="Large Files Scanner">
+    </td>
+    <td align="center">
+      <img src="./img/shot_4.PNG" width="250" alt="Deep Scan Mode">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="./img/shot_5.PNG" width="250" alt="Quarantine & Restore">
+    </td>
+  </tr>
+</table>
 
-![Main Scan View](./img/shot_1.PNG)
-![Scan Results & Risk Levels](./img/shot_2.PNG)
-![Large Files Scanner](./img/shot_3.PNG)
-![Deep Scan Mode](./img/shot_4.PNG)
-![Quarantine & Restore](./img/shot_5.PNG)
 
 ---
 
