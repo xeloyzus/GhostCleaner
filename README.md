@@ -11,7 +11,7 @@ smart risk assessment, and safe file recovery.
 
 ## 🖼️ Screenshots
 
-! [Main Scan View](./img/shot_1.png)
+! [Main Scan View](./img/shot_1.PNG)
 ! [Scan Results & Risk Levels](./img/shot_2.png)
 ! [Large Files Scanner](./img/shot_3.png)
 ! [Deep Scan Mode](./img/shot_4.png)
