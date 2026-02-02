@@ -1,44 +1,21 @@
+# GhostCleaner 👻
+
 <p align="center">
   <img src="./img/ghost.jpeg" alt="GhostCleaner App Icon" width="160">
 </p>
 
-<h1 align="center">GhostCleaner</h1>
-
-<p align="center">
-  A powerful, privacy-focused macOS disk cleanup utility with advanced scanning,
-  smart risk assessment, and safe file recovery.
-</p>
-
-<p align="center">
-  <strong>Fast • Safe • Sandbox-Compliant • macOS Native</strong>
-</p>
-
----
-
-## ✨ Overview
-
-**GhostCleaner** helps you reclaim disk space on macOS without risking important files.  
-It combines deep scanning, intelligent risk classification, and a built-in quarantine system — all wrapped in a sleek, pitch-black UI designed for macOS Sonoma and later.
-
-Unlike traditional “cleaner” apps, GhostCleaner **only scans folders you explicitly approve**, keeping your data private and secure.
+A powerful, privacy-focused macOS disk cleanup utility with advanced scanning,
+smart risk assessment, and safe file recovery.
 
 ---
 
 ## 🖼️ Screenshots
 
-<p align="center">
-  <img src="/img/shot_1.png" width="48%">
-  <img src="img/shot_2.png" width="48%">
-</p>
-
-<p align="center">
-  <img src="/img/shot_3.png" width="48%">
-  <img src="/img/shot_4.png" width="48%">
-</p>
-
-<p align="center">
-  <img src="/img/shot_5.png" width="80%">
-</p>
+![Main Scan View](./img/shot_1.png)
+![Scan Results & Risk Levels](./img/shot_2.png)
+![Large Files Scanner](./img/shot_3.png)
+![Deep Scan Mode](./img/shot_4.png)
+![Quarantine & Restore](./img/shot_5.png)
 
 ---
 
@@ -46,19 +23,18 @@ Unlike traditional “cleaner” apps, GhostCleaner **only scans folders you exp
 
 ### 🔍 Core Functionality
 - **12 Scan Categories**
-  - User caches & logs  
-  - Downloads  
-  - iOS backups  
-  - Xcode derived data & archives  
-  - Swift Package Manager caches  
-  - Homebrew caches  
-  - Browser caches  
-  - Mail attachments  
-  - And more
+  - User caches & logs
+  - Downloads
+  - iOS backups
+  - Xcode derived data & archives
+  - Swift Package Manager caches
+  - Homebrew caches
+  - Browser caches
+  - Mail attachments
 - **Deep Scan Mode**
-  - Includes hidden files and package contents
+  - Scans hidden files and package contents
 - **Large Files Scanner**
-  - Custom size thresholds to quickly locate space hogs
+  - Custom size threshold
 - **Smart Risk Assessment**
   - 🟢 Safe  
   - 🟡 Review  
@@ -66,122 +42,70 @@ Unlike traditional “cleaner” apps, GhostCleaner **only scans folders you exp
 
 ---
 
-### 🛡️ Safety First
+### 🛡️ Safety
 - **Quarantine System**
-  - Deleted files can be restored for up to **30 days**
-- **Undo Support**
-  - Recover files with a single click
+  - Restore deleted files for up to **30 days**
 - **Protected Paths**
-  - Critical system directories are never touched
-- **User-Selected Access Only**
+  - Critical macOS system directories are never touched
+- **User-Selected Folder Access**
   - No full-disk access required
+- **Undo Support**
+  - One-click restore
 
 ---
 
-### ⚙️ Advanced Tools
+### ⚙️ Advanced
 - **Scheduled Scans**
-  - Daily, weekly, or monthly automation
+  - Daily / Weekly / Monthly
 - **Scan History**
-  - Full log of scans and cleanup operations
-- **Exportable Reports**
-  - PDF or HTML summaries
+  - Full cleanup timeline
+- **Export Reports**
+  - PDF or HTML
 - **Dark-Only UI**
-  - True pitch-black theme optimized for OLED and low-light use
+  - True pitch-black theme
 - **Smart Insights**
-  - Cleanup recommendations based on scan results
+  - Cleanup recommendations
 
 ---
 
 ## 💻 System Requirements
 
-- **macOS 14.0 (Sonoma) or later**
-- Apple Silicon (M1 / M2 / M3 / M4) or Intel
-- Fully sandboxed & notarization-ready
+- macOS **14.0 (Sonoma)** or later
+- Apple Silicon (M1–M4) or Intel
+- Fully sandboxed
 
 ---
 
 ## 📦 Installation
 
 1. Download **GhostCleaner.app**
-2. Move it to your **Applications** folder
-3. Launch the app
-4. Grant folder access when prompted
+2. Move to **Applications**
+3. Launch and grant folder access when prompted
 
 ---
 
-## 🧭 Usage Guide
+## 🔐 Privacy & Permissions
 
-### First-Time Setup
-1. Complete the onboarding wizard
-2. Select which folders GhostCleaner may access
-3. Configure scan preferences in **Settings**
-
----
-
-### Running a Scan
-1. Click **Start Scan** or press `⌘ ⇧ S`
-2. Wait for the scan to complete
-3. Review results by **category** and **risk level**
-4. Select items manually or use **Select Safe Items**
-5. Click **Delete Selected Items**
-
----
-
-### Large Files Scanner
-1. Open the **Large Files** panel
-2. Choose a folder to analyze
-3. Adjust the minimum file size
-4. Delete files or reveal them in Finder
-
----
-
-### Deep Scan Mode
-- Enable via **Settings → Scanning → Deep Scan**
-- Scans hidden files and app packages
-- Slower but significantly more thorough
-
----
-
-### Restoring Deleted Files
-1. Open the **Management** tab
-2. Select an item from the deletion history
-3. Click **Restore**
-
----
-
-## 🔐 Permissions & Privacy
-
-GhostCleaner only accesses folders **you explicitly approve**, such as:
-- Caches, logs, and temporary files
+GhostCleaner only scans folders **you explicitly approve**:
+- Caches & logs
 - Downloads
 - Developer tools (Xcode, Homebrew, SwiftPM)
 - Browser caches and mail attachments
 
-All permissions are handled using **security-scoped bookmarks**.  
-No background scanning. No telemetry. No data collection.
-
----
-
-## 🆘 Support
-
-If you encounter issues or have feature requests:
-- Submit feedback through the app
-- Or open an issue in this repository
+All permissions use **security-scoped bookmarks**.  
+No telemetry. No background scanning.
 
 ---
 
 ## 🏷️ Version
 
-### **v1.0 – Initial Release**
+**v1.0 – Initial Release**
 - 12 scan categories
-- Deep scan support
+- Deep scan
 - Large file management
-- Scheduled scans
+- Scheduled scanning
 - Full sandbox compliance
 
 ---
 
-## 📄 License
-
-© 2026 **GhostCleaner**  
-All rights reserved.
+© 2026 GhostCleaner. All rights reserved.
