@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/img/ghost.jpeg" alt="GhostCleaner App Icon" width="160">
+  <img src="./img/ghost.jpeg" alt="GhostCleaner App Icon" width="160">
 </p>
 
 <h1 align="center">GhostCleaner</h1>
