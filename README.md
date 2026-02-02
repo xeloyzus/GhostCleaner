@@ -11,11 +11,11 @@ smart risk assessment, and safe file recovery.
 
 ## 🖼️ Screenshots
 
-! [Main Scan View](./img/shot_1.PNG)
-! [Scan Results & Risk Levels](./img/shot_2.PNG)
-! [Large Files Scanner](./img/shot_3.PNG)
-! [Deep Scan Mode](./img/shot_4.PNG)
-! [Quarantine & Restore](./img/shot_5.PNG)
+![Main Scan View](./img/shot_1.PNG)
+![Scan Results & Risk Levels](./img/shot_2.PNG)
+![Large Files Scanner](./img/shot_3.PNG)
+![Deep Scan Mode](./img/shot_4.PNG)
+![Quarantine & Restore](./img/shot_5.PNG)
 
 ---
 
