@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/ghost.jpeg" alt="GhostCleaner App Icon" width="160">
+  <img src="/img/ghost.jpeg" alt="GhostCleaner App Icon" width="160">
 </p>
 
 <h1 align="center">GhostCleaner</h1>
@@ -27,17 +27,17 @@ Unlike traditional “cleaner” apps, GhostCleaner **only scans folders you exp
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="img/shot_1.png" width="48%">
+  <img src="/img/shot_1.png" width="48%">
   <img src="img/shot_2.png" width="48%">
 </p>
 
 <p align="center">
-  <img src="img/shot_3.png" width="48%">
-  <img src="img/shot_4.png" width="48%">
+  <img src="/img/shot_3.png" width="48%">
+  <img src="/img/shot_4.png" width="48%">
 </p>
 
 <p align="center">
-  <img src="img/shot_5.png" width="80%">
+  <img src="/img/shot_5.png" width="80%">
 </p>
 
 ---
